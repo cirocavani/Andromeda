@@ -1,7 +1,7 @@
 Andromeda
 =========
 
-Data Science.
+Machine Intelligence.
 
 (GitHub)
 
